@@ -4,9 +4,9 @@
     <list default="true" id="ba4e8197-5570-4af4-a275-f180c0002221" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CliclerForPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CliclerForPractice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cake/Cake.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cake/Cake.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cake/Cake.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Cake/Cake.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/CakePlace.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CakePlace.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,10 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/ClickerZone.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Cake/CakeLayer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerWallet.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CakePlace.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/CakeCollector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Cake/Cake.cs" />
     </changedPaths>
   </component>
@@ -73,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636906787006</updated>
       <workItem from="1636906797581" duration="3972000" />
+      <workItem from="1637134809240" duration="3230000" />
     </task>
     <servers />
   </component>
@@ -91,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
