@@ -29,7 +29,6 @@ public class Cake : MonoBehaviour
                 if (Done == true)
                 {
                     CakeDone?.Invoke();
-                    Debug.Log("cake is ready");
                 }
             }
         }
