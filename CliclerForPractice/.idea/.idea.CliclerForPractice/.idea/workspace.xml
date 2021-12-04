@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba4e8197-5570-4af4-a275-f180c0002221" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CliclerForPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CliclerForPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cake/Cake.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cake/Cake.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cake/Cake.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Cake/Cake.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CakePlace.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CakePlace.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerWallet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerWallet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +80,7 @@
       <updated>1636906787006</updated>
       <workItem from="1636906797581" duration="3972000" />
       <workItem from="1637134809240" duration="3230000" />
-      <workItem from="1637141672854" duration="11315000" />
+      <workItem from="1637141672854" duration="11912000" />
     </task>
     <servers />
   </component>
